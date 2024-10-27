@@ -2,7 +2,7 @@ Research Paper Summary
 Overview
 The Research Paper Summary project is a web-based application that allows users to upload academic research papers and receive a concise summary. This project is designed to aid researchers, students, and academics by quickly providing the core information from lengthy documents, making it easier to understand and reference.
 
-Features
+Features 
 Upload research papers in PDF format
 Automatically generate concise summaries
 NLP-based extraction of key concepts, objectives, and findings
